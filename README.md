@@ -111,6 +111,8 @@ conn.close()
 server_socket.close()
 ```
 
+<img width="834" height="886" alt="Screenshot 2026-03-14 125637" src="https://github.com/user-attachments/assets/b67c1f05-2abb-446f-a6ad-7664026c1384" />
+<img width="822" height="885" alt="Screenshot 2026-03-14 125654" src="https://github.com/user-attachments/assets/b208f9c6-8041-4319-a564-13c50b75d9c5" />
 
 
 
